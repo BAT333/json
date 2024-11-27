@@ -1,0 +1,38 @@
+{
+    "softSkills": [
+        {
+            "id": 1,
+            "description": "Comunicação eficaz e trabalho em equipe"
+        },
+        {
+            "id": 2,
+            "description": "Resolução de problemas complexos"
+        },
+        {
+            "id": 3,
+            "description": "Pensamento crítico e criativo"
+        },
+        {
+            "id": 4,
+            "description": "Gerenciamento de tempo e adaptabilidade"
+        }
+    ],
+    "hardSkills": [
+        {
+            "id": 1,
+            "description": "Desenvolvimento Frontend: Angular, HTML, CSS, JavaScript"
+        },
+        {
+            "id": 2,
+            "description": "Desenvolvimento Backend: Java, Spring Boot, REST APIs"
+        },
+        {
+            "id": 3,
+            "description": "Boas práticas: Padrões SOLID, validações, tratamento de erros"
+        },
+        {
+            "id": 4,
+            "description": "Ferramentas: Git, Docker, Postman"
+        }
+    ]
+}
