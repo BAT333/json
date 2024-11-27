@@ -1,14 +1,37 @@
 {
-    "home": {
-        "title": "Bem-vindo ao Meu Projeto",
-        "content": "Esta é a página inicial do projeto, onde você encontra as principais informações."
+    "personalData": {
+        "name": "Rafael Alves de Oliveira",
+        "profession": "Desenvolvedor Web | Engenharia de Software",
+        "email": "rafaelolivais09@gmail.com",
+        "telephone": "+55 11 96887-4217",
+        "location": "São Paulo, SP",
+        "gitHub":"https://github.com/BAT333",
+        "linkedIn":"https://www.linkedin.com/in/rafael-alves-de-oliveira-155263215/",
+        "certifications":"https://cursos.alura.com.br/user/rafaelolivais09/fullCertificate/554b094cb4a349a0a380f26834472086"
     },
-    "about": {
-        "title": "Sobre o Projeto",
-        "content": "Este projeto é um exemplo de como usar JSON com Angular e GitHub para armazenar dados."
+    "photos": {
+        "imageUrlStart": "https://via.placeholder.com/250x250",
+        "imageUrlAbout": "https://via.placeholder.com/300x300"
     },
     "contact": {
-        "title": "Contato",
-        "content": "Entre em contato conosco pelo email: contato@exemplo.com."
+        "title": "Entre em Contato",
+        "content": "Se você deseja saber mais sobre meus projetos, tem dúvidas ou quer trocar ideias, entre em contato. Estou sempre aberto para conversas construtivas",
+        "subContent": "Conecte-se Comigo",
+        "endContent": "Estou sempre disponível para novas oportunidades e discussões. Fique à vontade para entrar em contato, e será um prazer conversar com você!"
+    },
+    "project":{
+         "title": "Meus Projetos",
+         "content": "Aqui estão alguns dos projetos que desenvolvi ou estou em processo de desenvolvimento."
+    },
+    "about":{
+         "title": "Sobre Mim",
+         "content": "Olá! Meu nome é Rafael Alves de Oliveira. Sou desenvolvedor web com experiência em criação e manutenção de sistemas seguros e escaláveis. Sempre busco aprender e aplicar novas tecnologias, valorizando a excelência em cada projeto."
+    },
+    "home":{
+         "title": "Bem-vindo ao meu Portfólio",
+         "content": "Sou Rafael Alves de Oliveira, desenvolvedor web focado na criação de sistemas robustos, acessíveis e escaláveis."
+    },
+    "end":{
+         "title": "© 2024 Rafael Alves de Oliveira. Todos os direitos reservados."
     }
 }
