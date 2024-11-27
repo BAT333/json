@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Sistema de Gerenciamento de Imobiliária",
+    "description": "Sistema desenvolvido para o gerenciamento de imóveis, com funcionalidades de cadastro, busca avançada e registro de vendas.",
+    "imageUrl": "https://via.placeholder.com/400x250",
+    "repoLink": "https://github.com/BAT333/real-estate-management-system"
+    
+  }
+]
