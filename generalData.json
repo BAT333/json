@@ -1,0 +1,14 @@
+{
+    "home": {
+        "title": "Bem-vindo ao Meu Projeto",
+        "content": "Esta é a página inicial do projeto, onde você encontra as principais informações."
+    },
+    "about": {
+        "title": "Sobre o Projeto",
+        "content": "Este projeto é um exemplo de como usar JSON com Angular e GitHub para armazenar dados."
+    },
+    "contact": {
+        "title": "Contato",
+        "content": "Entre em contato conosco pelo email: contato@exemplo.com."
+    }
+}
