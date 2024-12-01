@@ -1,26 +1,27 @@
 [
-  {
-    "id": 1,
-    "name": "Sistema de Gerenciamento de Imobiliária",
-    "description": "Sistema desenvolvido para o gerenciamento de imóveis, com funcionalidades de cadastro, busca avançada e registro de vendas.",
-    "imageUrl": "https://via.placeholder.com/400x250",
-    "repoLink": "https://github.com/BAT333/real-estate-management-system"
-    
-  },
-  {
-    "id": 2,
-    "name": "Sistema de Gerenciamento de Imobiliária",
-    "description": "Sistema desenvolvido para o gerenciamento de imóveis, com funcionalidades de cadastro, busca avançada e registro de vendas.",
-    "imageUrl": "https://via.placeholder.com/400x250",
-    "repoLink": "https://github.com/BAT333/real-estate-management-system"
-    
-  },
-  {
-    "id": 3,
-    "name": "Sistema de Gerenciamento de Imobiliária",
-    "description": "Sistema desenvolvido para o gerenciamento de imóveis, com funcionalidades de cadastro, busca avançada e registro de vendas.",
-    "imageUrl": "https://via.placeholder.com/400x250",
-    "repoLink": "https://github.com/BAT333/real-estate-management-system"
-    
-  }
+ {
+  "id": 1,
+  "name": "Sistema de Gerenciamento de Imobiliária",
+  "description": "Sistema desenvolvido para o gerenciamento de imóveis, com funcionalidades de cadastro, busca avançada, gestão de clientes, autenticação, e registro de vendas e compras.",
+  "imageUrl": "https://via.placeholder.com/400x250",
+  "repoLink": "https://github.com/BAT333/real-estate-management-system"
+}
+,
+{
+  "id": 2,
+  "name": "API Gateway",
+  "description": "Gateway configurado para autenticação de tokens e roteamento de requisições, além de implementação de segurança e documentação da API.",
+  "imageUrl": "https://via.placeholder.com/400x250",
+  "repoLink": "https://github.com/BAT333/Gateway"
+}
+,
+{
+  "id": 3,
+  "name": "WhatsApp Service",
+  "description": "Serviço para enviar mensagens pelo WhatsApp, com configuração de segurança, filtros no Gateway e autenticação de requisições. Implementação de Feign para validação de tokens.",
+  "imageUrl": "https://via.placeholder.com/400x250",
+  "repoLink": "https://github.com/BAT333/whatsApp-service"
+}
+
+
 ]
